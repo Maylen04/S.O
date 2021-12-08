@@ -3,6 +3,7 @@ NUEVOOOO
 
 
 
+
 ls /grupos | grep $grupo
 
 echo "Bienvenido, seleccione una opcion"
@@ -132,6 +133,21 @@ esac
 
 
 	
+
+
+
+	
+	
+	
+	
+
+
+
+	
+
+
+	
+
 
 
 
